@@ -23,5 +23,5 @@ This techblog is to allow you to share your thoughts about tech to others and al
 I can see my budget on and offline the internet
 
 ## links 
-*Here* is the deployed heroku site: https://immense-reaches-92714.herokuapp.com/<p>
+*Here* is the deployed heroku site: https://stormy-temple-71208.herokuapp.com/<p>
 *Here* is the repository: https://github.com/Justin7933/techblog14<p>
