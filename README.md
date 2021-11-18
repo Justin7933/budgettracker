@@ -1,5 +1,5 @@
 # Budget Tracker<p>
-This techblog is to allow you to share your thoughts about tech to others and also can comment on other peoples post. When you signup or log in you are free to talk about Tech!<p>
+This tracker is to allow you to see your budget through a graph viewpoint. It also allows you to change the budget on and offline the internet. Using webpacks and mongodb to do so.<p>
 ## Tools used 
   <ul>
     <li><strong>compression</strong></li>
