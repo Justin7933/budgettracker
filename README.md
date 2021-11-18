@@ -2,25 +2,25 @@
 This techblog is to allow you to share your thoughts about tech to others and also can comment on other peoples post. When you signup or log in you are free to talk about Tech!<p>
 ## Tools used 
   <ul>
-    <li><strong>MySql2</strong></li>
-    <li><strong>Handlebars.js</strong></li>
+    <li><strong>compression</strong></li>
+    <li><strong>lite-server</strong></li>
     <li><strong>Node.js</strong></li>
     <li><strong>Express</strong></li>
-    <li><strong>Sequelize</strong></li>
-    <li><strong>Bcrypt</strong></li>
+    <li><strong>nodemon</strong></li>
+    <li><strong>mongoose</strong></li>
     <li><strong>Dotenv</strong></li>
-    <li><strong>Express-Handlebars</strong></li>
-    <li><strong>Express-session</strong></li>
+    <li><strong>mongodb</strong></li>
+    <li><strong>morgan</strong></li>
 </ul><p>
 ## User-Story
 ### As A
   User
 
 ### I want to
-  Create a blog/post
+  Create a budget tracker
 
 ### So that 
-I can discuss my intrests about tech with others
+I can see my budget on and offline the internet
 
 ## links 
 *Here* is the deployed heroku site: https://immense-reaches-92714.herokuapp.com/<p>
