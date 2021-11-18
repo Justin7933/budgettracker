@@ -13,8 +13,7 @@ This techblog is to allow you to share your thoughts about tech to others and al
     <li><strong>morgan</strong></li>
 </ul><p>
 ## User-Story
-### As A
-  User
+As a User
 
 ### I want to
   Create a budget tracker
